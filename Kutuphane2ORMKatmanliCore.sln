@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kutuphane2ORMKatmanliCore", "Kutuphane2ORMKatmanliCore\Kutuphane2ORMKatmanliCore.csproj", "{AE825548-6183-4CC9-979F-12460C67F206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kutuphaneDataAccess", "kutuphaneDataAccess\kutuphaneDataAccess.csproj", "{1A4FFA58-6AE3-4975-AD6C-FD4B3BBC6687}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KutuphaneModel", "KutuphaneModel\KutuphaneModel.csproj", "{7FB28F4F-45DD-4393-AAB9-F60FC3436A83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE825548-6183-4CC9-979F-12460C67F206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE825548-6183-4CC9-979F-12460C67F206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE825548-6183-4CC9-979F-12460C67F206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE825548-6183-4CC9-979F-12460C67F206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A4FFA58-6AE3-4975-AD6C-FD4B3BBC6687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A4FFA58-6AE3-4975-AD6C-FD4B3BBC6687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A4FFA58-6AE3-4975-AD6C-FD4B3BBC6687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A4FFA58-6AE3-4975-AD6C-FD4B3BBC6687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FB28F4F-45DD-4393-AAB9-F60FC3436A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB28F4F-45DD-4393-AAB9-F60FC3436A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB28F4F-45DD-4393-AAB9-F60FC3436A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB28F4F-45DD-4393-AAB9-F60FC3436A83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59AF3F4E-8B69-4583-A68D-B8D1F0F75650}
+	EndGlobalSection
+EndGlobal
